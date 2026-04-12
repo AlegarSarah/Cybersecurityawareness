@@ -1,4 +1,5 @@
-﻿using System;
+﻿// ASCII art and ConsoleUI styling added
+ using System;
 using System.Threading;
 
 namespace CyberSecurityAwareness
