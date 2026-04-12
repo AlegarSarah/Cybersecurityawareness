@@ -1,6 +1,6 @@
 ﻿using CyberSecurityAwareness;
 using System;
-// Input validation and error handling added
+//Input validation and error handling added
 using System;
 // Set console title
 Console.Title = "Cybersecurity Awareness Bot";
