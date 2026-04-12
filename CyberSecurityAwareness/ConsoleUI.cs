@@ -1,4 +1,4 @@
-﻿// ASCII art and ConsoleUI styling added
+﻿//ASCII art and consoleUI styling added
  using System;
 using System.Threading;
 
