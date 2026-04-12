@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Voice greeting implemented
+using System;
 using System.IO;      // For File.Exists and Path.Combine
 using System.Media;   // For SoundPlayer
 
