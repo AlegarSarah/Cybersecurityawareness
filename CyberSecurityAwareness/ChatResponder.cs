@@ -5,7 +5,7 @@ namespace CyberSecurityAwareness
 {
     internal class ChatBotResponder //fixed the casing
     {
-
+        //50 keywords reponse system implemented
         //Dictionary with case-insensitive keys
         private static readonly Dictionary<string, string> Responses = new(StringComparer.OrdinalIgnoreCase)
         {
